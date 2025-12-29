@@ -1,4 +1,4 @@
-package com.grownapp.myfontskeyboard.base.adapter
+package com.universe.base.core.base.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

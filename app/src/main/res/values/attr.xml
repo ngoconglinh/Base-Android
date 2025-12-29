@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SettingView">
+        <attr name="svTitle" format="string" />
+        <attr name="svIcon" format="reference" />
+        <attr name="svShowIcon" format="boolean" />
+        <attr name="svSecondaryView" format="enum">
+            <enum name="none" value="0" />
+            <enum name="sw" value="1" />
+            <enum name="txt" value="2" />
+        </attr>
+        <attr name="svSecondaryViewTitle" format="string" />
+        <attr name="svTimePress" format="integer" />
+    </declare-styleable>
+</resources>

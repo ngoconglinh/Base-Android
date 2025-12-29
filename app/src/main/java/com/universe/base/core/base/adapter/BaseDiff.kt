@@ -1,4 +1,4 @@
-package com.grownapp.myfontskeyboard.base.adapter
+package com.universe.base.core.base.adapter
 
 import androidx.recyclerview.widget.DiffUtil
 
